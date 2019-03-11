@@ -1,0 +1,4 @@
+selenium
+Flask
+beautifulsoup4
+requests
